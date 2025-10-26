@@ -603,7 +603,7 @@
             };
         }
 
-        /* ---------- QR Generation (server-signed) ---------- */
+        /* ---------QR Generation (server-signed)--------- */
         async function requestQrForTable(tableId) {
             // Ask server to create a signed QR URL/token (server must sign token)
             const res = await secureFetch(QR_API, {
@@ -933,4 +933,5 @@
     </script>
 
 </body>
+
 </html>
