@@ -1,0 +1,5 @@
+{
+  "name": "Copy of FlavorFusion Restaurant System",
+  "description": "A comprehensive restaurant management application featuring a QR-code based ordering system for customers and a full-featured admin panel for staff. Includes menu management and real-time order tracking with an aggregated kitchen view.",
+  "requestFramePermissions": []
+}
